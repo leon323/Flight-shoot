@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HangShoot</string>
+    <string name="press_play">Press Play</string>
+    <string name="play">Play</string>
+    <string name="high_score">High Score</string>
+    <string name="background">background</string>
+    <string name="volume">volume</string>
+
+</resources>
